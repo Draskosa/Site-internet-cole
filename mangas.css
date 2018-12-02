@@ -7,6 +7,11 @@ p {
 }
 
 
+
+.Onglet {
+	decoration:none;	
+	
+}
 .Onglet#Anime{
 	
 	padding :8px;
