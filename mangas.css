@@ -7,22 +7,23 @@ p {
 }
 
 
-.Anime {
+.Onglet#Anime{
+	
+	padding :8px;
+	background-color : orange;
+	
+		
+}
+
+.Onglet#Jeux {
 	
 	padding :8px;
 	background-color : orange;
 		
 }
 
-.Jeux {
-	
-	padding :8px;
-	background-color : orange;
-		
-}
 
-
-.Mangas {
+.Onglet#Mangas {
 	
 	padding :8px;
 	background-color : orange;
